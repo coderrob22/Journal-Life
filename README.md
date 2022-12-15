@@ -1,9 +1,13 @@
 # Journal-Life
 Full stack CRUD application to journal about life. 
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:** https://journal-life.onrender.com/
 
-![alt tag](http://placecorgi.com/1200/650)
+![Journal Life demo](
+
+https://user-images.githubusercontent.com/105181695/207983281-9364411e-adc9-4fc8-abdd-a6b0cfe2b952.mov
+
+)
 
 ## How It's Made:
 

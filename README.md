@@ -3,11 +3,10 @@ Full stack CRUD application to journal about life.
 
 **Link to project:** https://journal-life.onrender.com/
 
-![Journal Life demo](
+[Journal Life demo]
 
 https://user-images.githubusercontent.com/105181695/207983281-9364411e-adc9-4fc8-abdd-a6b0cfe2b952.mov
 
-)
 
 ## How It's Made:
 
@@ -24,6 +23,6 @@ Google Auth also took me some time to navigate setting it up and how to operate 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Palettable:** https://github.com/alecortega/palettable
+**Jeopardy Party:** https://github.com/coderrob22/Jeopardy-API
 
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
+**Fashion Bros:** https://github.com/coderrob22/Fashion-Bros-Jewelry-Site

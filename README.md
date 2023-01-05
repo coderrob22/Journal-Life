@@ -25,4 +25,4 @@ Take a look at these couple examples that I have in my own portfolio:
 
 **Jeopardy Party:** https://github.com/coderrob22/Jeopardy-API
 
-**Fashion Bros:** https://github.com/coderrob22/Fashion-Bros-Jewelry-Site
+**Fashion Bros:** https://github.com/coderrob22/Fashion-Bros
